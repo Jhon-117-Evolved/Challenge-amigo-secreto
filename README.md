@@ -24,7 +24,7 @@ Este projeto é uma aplicação web simples para organizar sorteios de Amigo Sec
 
 # Instalação
 
-1.  Clone este repositório: `git clone https://m.youtube.com/shorts/7cxjaLvTTDg`
+1.  Clone este repositório: `git clone file:///C:/Users/joao-/Downloads/challenge-amigo-secreto_pt-main/challenge-amigo-secreto_pt-main/index.html
 2.  Abra o arquivo `index.html` no seu navegador.
 
 # Contribuição
